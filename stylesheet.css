@@ -78,3 +78,7 @@ body {
     height: 303;
     border: 5px solid #555;
 }
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
